@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @devSin8
+- 👀 I’m interested in Software and Game Devolpment
+- 🌱 I’m currently learning HTML, CSS, JavaScript and C/C++
+- 💞️ I’m looking to collaborate on WebD Projects
+- 📫 Reach me through my email: adityachess27@gmail.com
+- 😄 Pronouns: He/Him
